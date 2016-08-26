@@ -1,2 +1,2 @@
-Fighton
+FightOn!
 1
